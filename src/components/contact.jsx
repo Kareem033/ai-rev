@@ -116,7 +116,9 @@ function Contact() {
                 <textarea rows="4" className="form-input" />
               </div>
             </div>
-            <button className="btn-primary w-full mt-6">Send Message</button>
+            <button className="btn-primary w-full mt-6 cursor-pointer">
+              Send Message
+            </button>
           </form>
         </div>
       </div>
